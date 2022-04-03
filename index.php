@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-<<<<<<< HEAD
     <h1>Hello World 123 !</h1>
 </body>
 </html>
