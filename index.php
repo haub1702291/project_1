@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h1>Hello World 1 !</h1>
+=======
+    <h1>Hello World 222 !</h1>
+>>>>>>> 035f3076e45587f7468b51169961e777553b83b1
 </body>
 </html>
