@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello World 12345 !</h1>
+    <h1>Hello World WEB !</h1>
 </body>
 </html>
